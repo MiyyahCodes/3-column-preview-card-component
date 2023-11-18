@@ -51,12 +51,12 @@ h1{
 .third{
     width: 265px;
     padding: 28px;
-    height: 27rem;
+    height: 30rem;
 }
 p{
     font-size: 15px;
     color: hsla(0, 0%, 100%, 0.75);
-    padding-bottom: 120px;
+    padding-bottom: 160px;
 }
 button{
     border: none;
