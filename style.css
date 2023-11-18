@@ -6,7 +6,7 @@ body{
     width: 795px;
     background: hsl(0, 0%, 95%);
 }
-h2{
+h1{
     font-family: 'Big Shoulders Display', sans-serif;
     color: hsl(0, 0%, 95%);
 }
@@ -49,12 +49,12 @@ h2{
 .third{
     width: 265px;
     padding: 28px;
-    height: 23rem;
+    height: 25rem;
 }
 p{
     font-size: 15px;
     color: hsla(0, 0%, 100%, 0.75);
-    padding-bottom: 75px;
+    padding-bottom: 100px;
 }
 button{
     border: none;
